@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Data Engineer from Morocco, based in Paris and Lyon 🇫🇷
+- 👋 Hi, I’m Data Engineer from Morocco, based in Paris 🇫🇷
 - 👀 Passionate about everything about data.
 
 <!---
